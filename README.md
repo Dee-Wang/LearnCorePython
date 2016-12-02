@@ -1,6 +1,8 @@
 Core-Python-Programming-2nd-Edition-Examples-and-Source-Code
 ============================================================
 
+Python核心编程（Second Edition）练习题
+
 Examples and source code from the book "Core Python Programming", 2nd Edition, by Wesley J. Chun
 
 These directories contain all of the source code for the
